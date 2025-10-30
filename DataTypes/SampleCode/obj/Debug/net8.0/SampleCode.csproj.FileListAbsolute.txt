@@ -1,0 +1,15 @@
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\bin\Debug\net8.0\SampleCode.exe
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\bin\Debug\net8.0\SampleCode.deps.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\bin\Debug\net8.0\SampleCode.runtimeconfig.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\bin\Debug\net8.0\SampleCode.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\bin\Debug\net8.0\SampleCode.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.AssemblyInfoInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.AssemblyInfo.cs
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.csproj.CoreCompileInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.sourcelink.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\refint\SampleCode.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\SampleCode.genruntimeconfig.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\SampleCode\SampleCode\obj\Debug\net8.0\ref\SampleCode.dll
