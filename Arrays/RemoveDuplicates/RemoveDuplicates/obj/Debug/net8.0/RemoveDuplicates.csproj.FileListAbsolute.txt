@@ -1,0 +1,15 @@
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfoInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfo.cs
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.sourcelink.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.exe
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.deps.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.runtimeconfig.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\refint\RemoveDuplicates.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.genruntimeconfig.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\RemoveDuplicates\RemoveDuplicates\obj\Debug\net8.0\ref\RemoveDuplicates.dll

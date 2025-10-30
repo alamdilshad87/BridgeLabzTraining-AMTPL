@@ -1,0 +1,15 @@
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\bin\Debug\net8.0\TwoSum_Leetcode.exe
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\bin\Debug\net8.0\TwoSum_Leetcode.deps.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\bin\Debug\net8.0\TwoSum_Leetcode.runtimeconfig.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\bin\Debug\net8.0\TwoSum_Leetcode.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\bin\Debug\net8.0\TwoSum_Leetcode.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.AssemblyInfoInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.AssemblyInfo.cs
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.csproj.CoreCompileInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.sourcelink.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\refint\TwoSum_Leetcode.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\TwoSum_Leetcode.genruntimeconfig.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Arrays\TwoSum_Leetcode\TwoSum_Leetcode\obj\Debug\net8.0\ref\TwoSum_Leetcode.dll

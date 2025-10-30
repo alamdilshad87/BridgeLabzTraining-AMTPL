@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TwoSum_Leetcode/1.0.0": {
+        "runtime": {
+          "TwoSum_Leetcode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwoSum_Leetcode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
