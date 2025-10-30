@@ -1,0 +1,15 @@
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\bin\Debug\net8.0\AsteriskPattern.exe
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\bin\Debug\net8.0\AsteriskPattern.deps.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\bin\Debug\net8.0\AsteriskPattern.runtimeconfig.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\bin\Debug\net8.0\AsteriskPattern.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\bin\Debug\net8.0\AsteriskPattern.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.AssemblyInfoInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.AssemblyInfo.cs
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.csproj.CoreCompileInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.sourcelink.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\refint\AsteriskPattern.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\AsteriskPattern.genruntimeconfig.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Looping\AsteriskPattern\AsteriskPattern\obj\Debug\net8.0\ref\AsteriskPattern.dll
