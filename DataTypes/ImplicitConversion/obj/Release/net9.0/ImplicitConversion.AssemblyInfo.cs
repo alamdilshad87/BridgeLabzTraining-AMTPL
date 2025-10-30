@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImplicitConversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3641fd85649e4b631533755964583207a129c88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a709c7b8b3f23465851ba4451eb2b19d823dd4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImplicitConversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImplicitConversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

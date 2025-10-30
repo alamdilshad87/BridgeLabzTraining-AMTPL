@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruh9\\Downloads\\MeditechRepo\\BridgeLabzTraining-AMTPL\\DataTypes\\TypeCasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57838F74-0D1C-45C4-8A80-71FFFF6B07E6}|TypeCasting\\TypeCasting.csproj|c:\\users\\bruh9\\downloads\\meditechrepo\\bridgelabztraining-amtpl\\datatypes\\typecasting\\typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57838F74-0D1C-45C4-8A80-71FFFF6B07E6}|TypeCasting\\TypeCasting.csproj|solutionrelative:typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruh9\\Downloads\\MeditechRepo\\BridgeLabzTraining-AMTPL\\DataTypes\\TypeCasting\\TypeCasting\\Program.cs",
+              "RelativeDocumentMoniker": "TypeCasting\\Program.cs",
+              "ToolTip": "C:\\Users\\bruh9\\Downloads\\MeditechRepo\\BridgeLabzTraining-AMTPL\\DataTypes\\TypeCasting\\TypeCasting\\Program.cs",
+              "RelativeToolTip": "TypeCasting\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:28:20.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
