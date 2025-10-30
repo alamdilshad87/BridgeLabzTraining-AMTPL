@@ -1,0 +1,15 @@
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\bin\Debug\net8.0\CharacterType.exe
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\bin\Debug\net8.0\CharacterType.deps.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\bin\Debug\net8.0\CharacterType.runtimeconfig.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\bin\Debug\net8.0\CharacterType.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\bin\Debug\net8.0\CharacterType.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.AssemblyInfoInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.AssemblyInfo.cs
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.csproj.CoreCompileInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.sourcelink.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\refint\CharacterType.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\CharacterType.genruntimeconfig.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\CharacterType\CharacterType\obj\Debug\net8.0\ref\CharacterType.dll
