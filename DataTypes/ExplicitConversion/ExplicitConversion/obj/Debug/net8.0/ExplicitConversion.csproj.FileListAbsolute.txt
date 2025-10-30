@@ -1,0 +1,15 @@
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\bin\Debug\net8.0\ExplicitConversion.exe
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\bin\Debug\net8.0\ExplicitConversion.deps.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\bin\Debug\net8.0\ExplicitConversion.runtimeconfig.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\bin\Debug\net8.0\ExplicitConversion.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\bin\Debug\net8.0\ExplicitConversion.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.AssemblyInfoInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.AssemblyInfo.cs
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.sourcelink.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\refint\ExplicitConversion.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ExplicitConversion.genruntimeconfig.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\DataTypes\ExplicitConversion\ExplicitConversion\obj\Debug\net8.0\ref\ExplicitConversion.dll
