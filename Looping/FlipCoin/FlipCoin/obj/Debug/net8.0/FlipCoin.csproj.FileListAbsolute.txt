@@ -1,0 +1,15 @@
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\bin\Debug\net8.0\FlipCoin.exe
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\bin\Debug\net8.0\FlipCoin.deps.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\bin\Debug\net8.0\FlipCoin.runtimeconfig.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\bin\Debug\net8.0\FlipCoin.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\bin\Debug\net8.0\FlipCoin.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.AssemblyInfoInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.AssemblyInfo.cs
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.csproj.CoreCompileInputs.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.sourcelink.json
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\refint\FlipCoin.dll
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.pdb
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\FlipCoin.genruntimeconfig.cache
+C:\Users\bruh9\Downloads\MeditechRepo\BridgeLabzTraining-AMTPL\Conditionals\FlipCoin\FlipCoin\obj\Debug\net8.0\ref\FlipCoin.dll
